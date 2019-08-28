@@ -1,0 +1,50 @@
+body {
+	background-color: lightgrey;
+	font-family: helvetica, arial, sans serif;
+}
+
+h3 {
+	color: red;
+}
+
+h6 {
+	color: green;
+}
+
+#container{
+	background-color: yellow;
+	color: blue;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#header {
+	background-color: turquoise;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+
+#content {
+	padding: 10px;
+}
+
+#nav {
+	width: 180px;
+	float: left;
+}
+
+#main {
+	width: 600px;
+	float: right;
+}
+
+#footer {
+	clear: both;
+	padding: 10px;
+	background-color: grey;
+	color: white;
+	text-align: right;
+}
