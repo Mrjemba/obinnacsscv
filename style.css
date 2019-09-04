@@ -48,3 +48,32 @@ h6 {
 	color: white;
 	text-align: right;
 }
+
+form {
+	margin-top: 50px;
+	color: black;
+}
+
+.form-control
+{
+	width: 600px;
+	background: transparent;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid blue;
+	color: indigo;
+	font-size: 18px;
+	margin-bottom: 16px;
+}
+
+form .submit
+{
+	background: orangered;
+	border-color: transparent;
+	color: grey;
+	font-size: 20px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	height: 30px;
+	margin-top: 10px;
+}
